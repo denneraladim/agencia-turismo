@@ -1,0 +1,16 @@
+
+@use "../../styles/colors" as c;
+
+.footer {
+    width: 100%;
+    min-height: 50px;
+    background-color: c.$color-secondary;
+    color: c.$color-gray-dark;
+    font-size: 22px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+}
