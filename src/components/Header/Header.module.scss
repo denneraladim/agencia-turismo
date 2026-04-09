@@ -3,7 +3,7 @@
 .header {
   width: 100%;
   min-height: 50px;
-  background: linear-gradient(90deg, #0096C7, #48CAE4);
+  background: c.$gradient-primary;
   color: c.$color-white;
   padding: 10px 20px;
   display: flex;
